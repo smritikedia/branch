@@ -1,2 +1,6 @@
 this is my new file
 for the mrege and pull request
+
+here are my commands for the merge and pull requests
+open pull request
+merge requests
